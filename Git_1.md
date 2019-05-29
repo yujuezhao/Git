@@ -6,7 +6,7 @@
 
    ```ssh-keygen -t rsa -C "email@gmail.com"```
 
-2. [set SSH key on github](https://images2015.cnblogs.com/blog/1192146/201707/1192146-20170714173851775-474031887.png)
+2. set SSH key on github
 
 3. `git config --global user.name "yujuezhao"`
 
